@@ -1,0 +1,1 @@
+docker stop my-radius && docker rm my-radius
